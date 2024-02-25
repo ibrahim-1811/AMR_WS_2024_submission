@@ -1,0 +1,10 @@
+# IDEs
+.idea
+.vscode
+
+# Python
+venv
+
+# OS
+.DS_Store
+Thumbs.db
